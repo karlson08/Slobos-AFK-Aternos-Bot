@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smpinsteadofspm.aternos.me:43273",
+    "ip": "smpinsteadofspm.aternos.me",
     "port": 43273,
     "version": "1.21.11",
     "try-creative": false
